@@ -1,7 +1,7 @@
 # Practica-S2_-HTML-_-Caso-Pasteleria
 Repositorio dedicado al caso Practica HTML, crear una pagina en HTML basado en una pastelería como se describe en el ejercicio.
 
-[Práctica HTML Mision FrontEnd](Victor-Hugo-Amaya.github.io)
+[Práctica HTML Mision FrontEnd](https://victor-hugo-amaya.github.io/)
 ## Práctica
 - Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
 - Maquetación de páginas de cliente de la pastelería.
